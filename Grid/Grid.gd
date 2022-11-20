@@ -31,7 +31,7 @@ func _vieport_to_grid(pos, _cell_size):
 	return (pos / _cell_size).round()
 	
 func _calculate_cell_size():
-	_cell_size = 5
+	_cell_size = 1
 	
 func get_cell(pos):
 	return _grid[pos.y][pos.x]

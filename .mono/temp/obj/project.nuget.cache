@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3I1wbLQIoft6wKInjRiDl24JpU6efePHoH/uikPQSuOfnjThH9kgwm0N4p5+yo3aKfSrr+LXGXE5HwOAifxmwQ==",
+  "success": true,
+  "projectFilePath": "D:\\Godot projects\\Metroid Magica\\Metroid Magica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита Трощенко\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Никита Трощенко\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
